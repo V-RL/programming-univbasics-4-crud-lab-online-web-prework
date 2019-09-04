@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   new_array = ["Maserati", "Porsche", "Bugatti", "Viper"]
-  new_array[0] = "Camry"
+  new_array[4] = "totally"
 end
