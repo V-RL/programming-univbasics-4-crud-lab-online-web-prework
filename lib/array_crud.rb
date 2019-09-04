@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
    new_array ["Maserati", "Porsche", "Bugatti", "Viper"]
+   new_array << "Lamborghini"
 end
 
 def add_element_to_start_of_array(array, element)
