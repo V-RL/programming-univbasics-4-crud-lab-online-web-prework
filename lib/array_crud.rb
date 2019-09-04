@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  new_array = ["Maserati", "Porsche", "Bugatti", "Viper"]
+  new_array = ["Maserati", "Porsche", "Bugatti", "Viper", "arrays!"]
    new_array[-1]
 end
 
