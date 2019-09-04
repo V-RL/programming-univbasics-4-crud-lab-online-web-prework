@@ -38,9 +38,9 @@ end
 
 def retrieve_last_element_from_array(array)
   new_array ["Maserati", "Porsche", "Bugatti", "Viper"]
-   new_array[3]
+   new_array[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  new_array ["Maserati", "Porsche", "Bugatti", "Viper"]
 end
