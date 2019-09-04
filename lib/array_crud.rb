@@ -23,6 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
     new_array ["Maserati", "Porsche", "Bugatti", "Viper"]
+    
 end
 
 def retrieve_element_from_index(array, index_number)
