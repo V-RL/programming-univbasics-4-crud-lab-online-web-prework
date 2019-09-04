@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
     new_array ["Maserati", "Porsche", "Bugatti", "Viper"]
-    
+    maserati_car = new_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
